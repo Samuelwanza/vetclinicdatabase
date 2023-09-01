@@ -110,7 +110,10 @@ Install postgreSQL [https://www.postgresql.org/download/]
 
 ### Run tests
 
-To run tests, run the following command
+To run tests,
+-copy the code in schema.sql in your psql commandline and execute
+-Copy the  code in data.sql and run it in the psql commandline
+-Then run each of the queries in queries.sql one by one on the psql commandline
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
