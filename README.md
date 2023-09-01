@@ -110,8 +110,12 @@ Install postgreSQL [https://www.postgresql.org/download/]
 
 ### Run tests
 
-To run tests, run the following command
-
+To run tests,
+-copy the code in schema.sql in your psql commandline and execute
+-Copy the  code in data.sql and run it in the psql commandline
+-Then run each of the queries in queries.sql one by one on the psql commandline
+### LIVE DEMO <a name="live-demo"></a>
+coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,7 +169,7 @@ We would like to thank Microverse community.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
